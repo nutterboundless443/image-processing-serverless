@@ -6,5 +6,3 @@ built/
 .idea/
 .env
 logs/
-coverage/
-test-coverage/
