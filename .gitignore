@@ -1,6 +1,10 @@
+.gitignore
+
 node_modules/
 built/
 .DS_Store
 .idea/
 .env
 logs/
+coverage/
+test-coverage/
