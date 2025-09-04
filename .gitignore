@@ -7,3 +7,4 @@ built/
 .env
 logs/
 npm-debug.log
+coverage/
